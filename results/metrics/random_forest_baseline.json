@@ -1,0 +1,15 @@
+{
+  "model": "Random Forest",
+  "dataset": "UNSW-NB15 training set",
+  "validation": "Stratified 80/20 split",
+  "random_state": 42,
+  "accuracy": 0.958,
+  "binary_f1": 0.9691,
+  "roc_auc": 0.9938,
+  "false_positive_rate": 0.0649,
+  "false_negative_rate": 0.0313,
+  "true_negative": 10473,
+  "false_positive": 727,
+  "false_negative": 746,
+  "true_positive": 23123
+}

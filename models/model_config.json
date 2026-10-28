@@ -1,0 +1,18 @@
+{
+  "selected_model": "Random Forest",
+  "decision_threshold": 0.7,
+  "target_column": "label",
+  "positive_class": 1,
+  "excluded_columns": [
+    "id",
+    "attack_cat",
+    "label"
+  ],
+  "categorical_columns": [
+    "proto",
+    "service",
+    "state"
+  ],
+  "dataset": "UNSW-NB15",
+  "threshold_status": "provisional; selected using validation results"
+}

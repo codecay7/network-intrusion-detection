@@ -1,0 +1,17 @@
+{
+  "model": "Random Forest",
+  "dataset": "UNSW-NB15 training split",
+  "evaluation": "stratified internal validation",
+  "threshold": 0.7,
+  "accuracy": 0.9410020245801135,
+  "attack_precision": 0.9876957494407159,
+  "attack_recall": 0.9248397503037412,
+  "attack_f1": 0.9552348601224605,
+  "roc_auc": 0.9937654376866589,
+  "true_negative": 10925,
+  "false_positive": 275,
+  "false_negative": 1794,
+  "true_positive": 22075,
+  "false_positive_rate": 0.024553571428571428,
+  "false_negative_rate": 0.07516024969625874
+}

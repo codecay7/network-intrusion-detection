@@ -1,0 +1,17 @@
+{
+  "dataset": "UNSW-NB15 official test set",
+  "threshold": 0.7,
+  "records": 82332,
+  "accuracy": 0.9203590341543992,
+  "attack_precision": 0.9219351890139067,
+  "attack_recall": 0.9344833671578576,
+  "attack_f1": 0.9281668693375401,
+  "roc_auc": 0.9831805454532446,
+  "true_negative": 33413,
+  "false_positive": 3587,
+  "false_negative": 2970,
+  "true_positive": 42362,
+  "false_positive_rate": 0.09694594594594595,
+  "false_negative_rate": 0.06551663284214242,
+  "status": "Exploratory evaluation; test set previously used for threshold analysis"
+}
